@@ -31,7 +31,6 @@ public class LoginButtonListener implements ActionListener
 				s = webResource.get(String.class);
 
 				System.out.println(s);
-				System.out.println("a");
 			}
 		}
 	}
